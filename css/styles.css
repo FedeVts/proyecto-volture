@@ -1,0 +1,27 @@
+#mapa {
+    background-color:aqua;
+    text-align: center;
+}
+#seccion {
+    background-color:blueviolet;
+}
+.footer {
+    background-color: brown;
+}
+.titulo{
+    text-align: start;
+}
+.dark a{
+    background-color: red;
+    font-size: 20px;
+    text-align: start;
+}
+.sublogo{
+    text-align: start;
+    background-color: bisque;
+}
+.marcas{
+    background-color: coral;
+    text-align: end;
+    
+}
